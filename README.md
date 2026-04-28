@@ -1,16 +1,16 @@
-# Fortune Teller 
+# Fortune Teller
 
-Este proyecto genera una fortuna aleatoria usando JavaScript.
+This project generates a random fortune using JavaScript.
 
-## Tecnologías
+## Technologies
 - JavaScript
 
-## Funcionalidad
-- Genera un número aleatorio
-- Muestra una frase según el número
+## Functionality
+- Generates a random number
+- Displays a phrase based on the number
 
-## Cómo usar
-Abrir el archivo en consola o navegador.
+## How to Use
+Open the file in the console or a browser.
 
-##  Autor
+## Author
 Esteban Torres
